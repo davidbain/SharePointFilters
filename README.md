@@ -10,3 +10,8 @@ The buttons include their own CSS so the way they look (seen below) can be chang
 ![image](http://i.imgur.com/zy3lFMD.png)
 
 So far these filter buttons have been tested as working on SharePoint Services 3.0 and above. 
+
+To use these buttons, simply insert them into a web part on the same page as the SharePoint list to filter.
+
+If you want to filter by something other than 'Title', change the filterColumn variable on line 38 to the column name.
+    filterColumn = "Title";
