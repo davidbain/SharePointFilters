@@ -13,5 +13,8 @@ So far these filter buttons have been tested as working on SharePoint Services 3
 
 To use these buttons, simply insert them into a web part on the same page as the SharePoint list to filter.
 
-If you want to filter by something other than 'Title', change the filterColumn variable on line 38 to the column name.
-    filterColumn = "Title";
+If you want to filter by something other than 'Title', change the filterColumn variable on line 38 to the column name. 
+
+```
+38      filterColumn = "Title";
+```
