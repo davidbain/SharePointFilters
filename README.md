@@ -7,7 +7,7 @@ also shareable via it's page URL.
 
 The buttons include their own CSS so the way they look (seen below) can be changed easily. Javascript is used to generate the buttons, instead of having a block of code for each letter. 
 
-![image](http://i.imgur.com/zy3lFMD.png)
+![image](http://imgur.com/7qU98vp.png)
 
 So far these filter buttons have been tested as working on SharePoint Services 3.0 and above. 
 
